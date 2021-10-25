@@ -1,0 +1,23 @@
+.alert {
+	position: absolute;
+	top: 45%;
+	left: 45%;
+}
+.form-control {
+	width: 500px;
+}
+
+.getPlayersByPostion {
+	margin: 20px;
+}
+li {
+	width: 600px;
+	margin: 0.4rem;
+}
+li span {
+	width: 100px;
+}
+
+
+
+/*# sourceMappingURL=/main.af46ece4.css.map */
